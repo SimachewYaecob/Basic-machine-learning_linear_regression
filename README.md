@@ -1,19 +1,30 @@
  Week 4: Basic Machine Learning 
+ 
 ● Project Title: Implementing a Simple Linear Regression Model 
+
 ● Description: Use a dataset to create a linear regression model to predict a numerical outcome. Evaluate model performance and visualize the results. 
 
 Dataset Reference: California Housing Prices Dataset 
 
 
 Project Overview
+
 •	Goal: Predict median_house_value using a single numerical feature.
+
 •	Dataset: California Housing Prices
+
 •	Approach: Simple Linear Regression
+
 Steps:
+
 •	Data Preprocessing
+
 •	Exploratory Data Analysis (EDA)
+
 •	Model Implementation
+
 •	Performance Evaluation
+
 •	Visualization
 
 
